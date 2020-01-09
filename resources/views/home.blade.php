@@ -19,11 +19,21 @@
     <link href="/css/style.css" rel="stylesheet" type="text/css" media="all" />
   </head>
   <body>
+
     <div class="wrapper animsition" data-animsition-in-class="fade-in"
       data-animsition-in-duration="1000"
       data-animsition-out-class="fade-out"
       data-animsition-out-duration="1000">
 
+<div class="float-right" align="right">
+  <a href="/">
+    <img src="https://lipis.github.io/flag-icon-css/flags/4x3/gb.svg" width="35" style="margin: 20px; margin-right: 10px">
+  </a>
+  <a href="es">
+    
+<img src="https://lipis.github.io/flag-icon-css/flags/4x3/es.svg" width="35" style=" margin: 20px">
+  </a>
+</div>
 
     <div class="main" id="main"><!-- Main Section-->
       <div class="jarallax">
@@ -333,7 +343,7 @@ Use our fast and secure Paypal-powered checkout system to finish your booking an
 
         <div class="footer-text">
           <p>
-            Copyright © 2019 Rooms Wiz.
+            Copyright © 2020 Rooms Wiz.
           </p>
         </div>
       </div>

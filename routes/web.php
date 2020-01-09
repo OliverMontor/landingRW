@@ -18,3 +18,7 @@ Route::get('/', function () {
 Route::get('form', function () {
     return view('form');
 });
+
+Route::get('es', function () {
+    return view('home_es');
+});
