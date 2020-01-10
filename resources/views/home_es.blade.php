@@ -158,10 +158,7 @@ Reserva utilizando neustro sistema seguro vía Paypal y ¡Listo!, disfruta tus v
 
 <!--The div element for the map
 <div id="map"></div> -->
-<iframe width="100%" height="576" src="https://maphub.net/embed/70237?button=0" frameborder="0"></iframe>
-
-<br>
-<div class="services-section text-center" id="services"><!-- Services section (small) with icons -->
+<iframe width="100%" height="576" src="https://maphub.net/embed/79815?button=0" frameborder="0"></iframe><div class="services-section text-center" id="services"><!-- Services section (small) with icons -->
         <div class="container">
           <div class="col-md-8 col-md-offset-2 nopadding">
           <div class="services-content">

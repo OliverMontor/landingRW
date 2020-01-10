@@ -159,8 +159,7 @@ Use our fast and secure Paypal-powered checkout system to finish your booking an
 
 <!--The div element for the map
 <div id="map"></div> -->
-<iframe width="100%" height="576" src="https://maphub.net/embed/70237?button=0" frameborder="0"></iframe>
-
+<iframe width="100%" height="576" src="https://maphub.net/embed/79814?button=0" frameborder="0"></iframe>
 <br>
 <div class="services-section text-center" id="services"><!-- Services section (small) with icons -->
         <div class="container">
